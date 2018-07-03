@@ -221,8 +221,13 @@ section.nino-personalStatement {
 	text-align: center;
 	width: 110px;
 }
+/*
 .nino-specialities ul li + li {
 	margin-left: -18px;
+}
+*/
+.nino-specialities ul li {
+    margin: 15px;
 }
 .nino-specialities ul li i {
 	font-size: 45px;
