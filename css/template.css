@@ -143,6 +143,7 @@ header .regency {
 }
 header .name {
 	font-size: 25px;
+	margin-bottom: 8px;
 }
 header .regency {
 	font-size: 15px;
