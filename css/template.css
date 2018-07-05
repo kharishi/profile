@@ -134,6 +134,7 @@ header {
 }
 header .item {
 	margin-bottom: 20px;
+	font-size: 15px;
 }
 header .name,
 header .regency {
