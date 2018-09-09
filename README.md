@@ -1,4 +1,4 @@
-## Welcome to Kharis Hdiayatullah personal CV
+## Welcome to Kharis Hidayatullah personal CV
 
 All this code are just from HTML and Javascript
 
