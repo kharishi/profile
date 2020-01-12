@@ -293,6 +293,9 @@ section.nino-personalStatement {
 	margin-left: -2px;
 }
 /* =============== SECTION DESIGN SKILLS =============== */
+.nino-sectionContent{
+	width: 94%;
+}
 .nino-designSkills .nino-sectionContent,
 .nino-designSkills ul {
 	margin-top: 30px;
