@@ -433,6 +433,9 @@ section.nino-personalStatement {
     margin: 2px 0;
     font-weight: normal;
 }
+.col-lg-12.col-md-12.work-experience {
+    margin: 0 0 40px 0;
+}
 /* =============== SECTION RECOGNITIONS =============== */
 .nino-recognitions .item {
     margin: 30px 0;
