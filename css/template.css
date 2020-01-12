@@ -149,14 +149,15 @@ header .regency {
 	text-transform: capitalize;
 }
 header .name {
-	font-size: 26px;
-	margin-bottom: 8px;
+    font-size: 28px;
+    margin-bottom: 8px;
+    font-weight: 600;
 }
 header .regency {
-	font-size: 16px;
+    font-size: 19px;
+    font-weight: 500;
 }
-header .text {
-	border-right: 1px solid #c5c5c5;
+header .text {	
 	margin-right: 10px;
 	padding-right: 10px;
 }
@@ -214,7 +215,9 @@ section:not(:last-child) {
 	font-size: 14px;
 	padding-bottom: 5px;
 	margin-bottom: 15px;
-	color: #069cad;
+	color: #658c90;
+	text-align: end;
+	transform: translate(0%, -10%) rotate(-1deg) skew(10deg);
 }
 /* =============== LAYOUT - FOOTER AREA =============== */
 footer {
@@ -248,13 +251,8 @@ section.nino-personalStatement {
 	text-align: center;
 	width: 110px;
 }
-/*
-.nino-specialities ul li + li {
-	margin-left: -18px;
-}
-*/
 .nino-specialities ul li {
-    margin: 15px;
+	margin: 15px;
 }
 .nino-specialities ul li i {
 	font-size: 45px;
@@ -580,12 +578,20 @@ section.nino-personalStatement {
 }
 @media (max-width: 640px) {
 
+	.nino-specialities ul li {
+		margin: -2px;
+	}
+
 	/* =============== SECTION HOBBIES & INTERESTS =============== */
 	.nino-hobbies .item {
 		width: 33.3%;
 	}
 }
 @media (max-width: 480px) {
+
+	.nino-specialities ul li {
+		margin: -2px;
+	}
 
 	/* =============== SECTION HOBBIES & INTERESTS =============== */
 	.nino-hobbies .item {
