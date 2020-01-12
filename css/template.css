@@ -77,7 +77,11 @@ p {
 	text-align: justify;
 }
 ul, ul li {
-	list-style: none;
+    list-style: none;
+    font-size: 15px;
+    font-weight: 500;
+    color: #000000;
+    margin: 8px 0px;
 }
 /* =============== DEFAULT HTML - IMAGES STYLES =============== */
 img {
