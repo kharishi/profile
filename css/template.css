@@ -436,8 +436,9 @@ section.nino-personalStatement {
 	color: #808285;
 }
 .nino-recognitions .desc {
-	color: #6D6E71;
+    color: #000000;
     margin: 2px 0;
+    font-weight: normal;
 }
 /* =============== SECTION HOBBIES & INTERESTS =============== */
 .nino-hobbies .nino-sectionContent {
