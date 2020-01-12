@@ -392,13 +392,13 @@ section.nino-personalStatement {
 	border-radius: 50%;
 }
 .nino-education ul li {
-	position: relative;
-	list-style: none;
-	font-size: 15px;
-	font-weight: 700;
-	color: #000000;
-	margin: 0px 0 0px 0;
-	padding: 15px 0 15px 0;
+    position: relative;
+    list-style: none;
+    font-size: 15px;
+    font-weight: 700;
+    color: #000000;
+    margin: 0px 0 -20px 0;
+    padding: 20px 0 15px 0;
 }
 .nino-education ul li:before {
 	content: "";
