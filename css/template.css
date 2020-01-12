@@ -416,8 +416,10 @@ section.nino-personalStatement {
 }
 /* =============== SECTION WORK EXPERIENCE =============== */
 .nino-workExperience .nino-sectionContent {
-	color: #231F20;
-	font-weight: 400;
+    margin: 30px 0;
+    font-weight: 600;
+    color: #000000;
+    font-size: 14px;
 }
 .nino-workExperience .number {
     font-size: 100px;
@@ -427,8 +429,9 @@ section.nino-personalStatement {
     color: #525252;
 }
 .nino-workExperience .regency {
-	color: #6D6E71;
-	margin: 2px 0;
+    color: #000000;
+    margin: 2px 0;
+    font-weight: normal;
 }
 /* =============== SECTION RECOGNITIONS =============== */
 .nino-recognitions .item {
