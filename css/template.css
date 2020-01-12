@@ -300,7 +300,10 @@ section.nino-personalStatement {
 	padding-right: 40px;
 }
 .nino-designSkills .skillName {
-	width: 160px;
+    width: 180px;
+    font-weight: normal;
+    font-size: 14px;
+    color: black;
 }
 .nino-designSkills .dot {
 	display: inline-block;
