@@ -1,6 +1,6 @@
 ## Welcome to Kharis Hidayatullah personal CV
 
-All this code are just from HTML and Javascript
+All this code are just from HTML and Javascript.
 
 ### Support or Contact
 
