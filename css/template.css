@@ -452,6 +452,7 @@ section.nino-personalStatement {
     color: #000000;
     margin: 2px 0;
     font-weight: normal;
+    font-size: 12px;
 }
 /* =============== SECTION HOBBIES & INTERESTS =============== */
 .nino-hobbies .nino-sectionContent {
