@@ -12,9 +12,9 @@ html, body {
 	padding: 0;
 }
 body {
-	color: #313131;
+	color: #636363;
 	font-size: 15px;
-	font-weight: 300;
+	font-weight: 400;
 	position: relative;
 	font-family: 'Open Sans', sans-serif;
 	background-image: url(../images/wood-melanine.jpg);    
@@ -73,7 +73,8 @@ p, form, input {
 	padding: 0;
 }
 p {
-	margin-bottom: 10px;
+	margin-bottom: 15px;
+	text-align: justify;
 }
 ul, ul li {
 	list-style: none;
