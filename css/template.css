@@ -424,8 +424,8 @@ section.nino-personalStatement {
 .nino-workExperience .number {
     font-size: 100px;
     font-weight: 400;
-    margin: 45px 20px 0 0;
-    line-height: 72px;
+    margin: 0px 25px 0px 0px;
+    line-height: 67px;
     color: #525252;
 }
 .nino-workExperience .regency {
