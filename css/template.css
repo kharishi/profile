@@ -205,7 +205,7 @@ section {
 	page-break-before: always;
 }
 section:not(:last-child) {
-	margin-bottom: 65px;
+	margin-bottom: 35px;
 }
 .nino-sectionTitle {
 	text-transform: uppercase;
@@ -416,7 +416,7 @@ section.nino-personalStatement {
 }
 /* =============== SECTION WORK EXPERIENCE =============== */
 .nino-workExperience .nino-sectionContent {
-    margin: 30px 0;
+    margin: 30px 0 0 0;
     font-weight: 600;
     color: #000000;
     font-size: 14px;
