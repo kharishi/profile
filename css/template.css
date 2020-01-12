@@ -444,10 +444,10 @@ section.nino-personalStatement {
 	margin: 45px -5px 0;
 }
 .nino-hobbies .item {
-	width: 27%;
-	float: left;
-	padding: 0 5px;
-	margin-bottom: 10px;
+    width: 32%;
+    float: left;
+    padding: 12px 5px;
+    margin-bottom: 10px;
 }
 .nino-hobbies .itemInner {
 	position: relative;
