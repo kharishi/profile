@@ -417,7 +417,7 @@ section.nino-personalStatement {
 /* =============== SECTION WORK EXPERIENCE =============== */
 .nino-workExperience .nino-sectionContent {
     margin: 30px 0 0 0;
-    font-weight: 600;
+    font-weight: normal;
     color: #000000;
     font-size: 14px;
 }
@@ -432,6 +432,7 @@ section.nino-personalStatement {
     color: #000000;
     margin: 2px 0;
     font-weight: normal;
+    font-weight: 700;
 }
 .col-lg-12.col-md-12.work-experience {
     margin: 0 0 40px 0;
