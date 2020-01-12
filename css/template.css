@@ -364,10 +364,10 @@ section.nino-personalStatement {
 	color: #231F20;
 }
 .nino-education ul {
-	position: relative;
-	border-left: 2px solid #4e4e4e;
-	padding: 15px 0 40px 25px;
-	margin-left: 5px;
+    position: relative;
+    border-left: 2px solid #797979;
+    padding: 15px 0 40px 25px;
+    margin-left: 20px;
 }
 .nino-education ul:before,
 .nino-education ul:after {
@@ -393,6 +393,12 @@ section.nino-personalStatement {
 }
 .nino-education ul li {
 	position: relative;
+	list-style: none;
+	font-size: 15px;
+	font-weight: 700;
+	color: #000000;
+	margin: 0px 0 0px 0;
+	padding: 15px 0 15px 0;
 }
 .nino-education ul li:before {
 	content: "";
