@@ -341,7 +341,7 @@ section.nino-personalStatement {
 	display: inline-block;
 	width: 12px;
 	height: 12px;
-	background: #cecece;
+	background: #e2e2e2;
 	border-radius: 50%;
 	margin: 0 1px;
 }
@@ -353,7 +353,7 @@ section.nino-personalStatement {
 .nino-designSkills .level-6 .dot:nth-child(-n+6),
 .nino-designSkills .level-7 .dot:nth-child(-n+7),
 .nino-designSkills .level-8 .dot {
-	background: #494748;
+	background: #d68888;
 }
 /* =============== SECTION LANGUAGE SKILLS =============== */
 .nino-languageSkills .nino-sectionContent {
