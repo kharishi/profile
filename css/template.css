@@ -220,28 +220,28 @@ section:not(:last-child) {
 	/* transform: translate(0%, -10%) rotate(-1deg) skew(10deg); */
 }
 .nino-sectionTitle span.specialities {
-    background-color: #c5c5c5;    
+    background-color: #c49ace;    
 }
 .nino-sectionTitle span.personal-statement {
-    background-color: #c5c5c5;    
+    background-color: #9aa5ce;    
 }
 .nino-sectionTitle span.superpowers {
-    background-color: #c5c5c5;    
+    background-color: #cdce9a;    
 }
 .nino-sectionTitle span.language-skills {
-    background-color: #c5c5c5;    
+    background-color: #ce9ab9;    
 }
 .nino-sectionTitle span.education {
-    background-color: #c5c5c5;    
+    background-color: #ce9a9a;    
 }
 .nino-sectionTitle span.work-experience {
-    background-color: #c5c5c5;    
+    background-color: #9aceaa;    
 }
 .nino-sectionTitle span.recognitions {
-    background-color: #c5c5c5;    
+    background-color: #9acece;    
 }
 .nino-sectionTitle span.hobbies-interests {
-    background-color: #c5c5c5;    
+    background-color: #9a9cce;    
 }
 .nino-sectionTitle span {    
     padding: 6px 10px 8px 10px;
@@ -493,7 +493,7 @@ section.nino-personalStatement {
 .nino-recognitions .nino-icon {
 	font-size: 50px;
 	margin-right: 40px;
-	color: #808285;
+	color: #74a3c5;
 }
 .nino-recognitions .desc {
     color: #000000;
