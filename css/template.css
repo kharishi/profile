@@ -215,9 +215,36 @@ section:not(:last-child) {
 	font-size: 14px;
 	padding-bottom: 5px;
 	margin-bottom: 15px;
-	color: #658c90;
+	color: #ffffff;
 	text-align: end;
-	transform: translate(0%, -10%) rotate(-1deg) skew(10deg);
+	/* transform: translate(0%, -10%) rotate(-1deg) skew(10deg); */
+}
+.nino-sectionTitle span.specialities {
+    background-color: #c5c5c5;    
+}
+.nino-sectionTitle span.personal-statement {
+    background-color: #c5c5c5;    
+}
+.nino-sectionTitle span.superpowers {
+    background-color: #c5c5c5;    
+}
+.nino-sectionTitle span.language-skills {
+    background-color: #c5c5c5;    
+}
+.nino-sectionTitle span.education {
+    background-color: #c5c5c5;    
+}
+.nino-sectionTitle span.work-experience {
+    background-color: #c5c5c5;    
+}
+.nino-sectionTitle span.recognitions {
+    background-color: #c5c5c5;    
+}
+.nino-sectionTitle span.hobbies-interests {
+    background-color: #c5c5c5;    
+}
+.nino-sectionTitle span {    
+    padding: 6px 10px 8px 10px;
 }
 /* =============== LAYOUT - FOOTER AREA =============== */
 footer {
