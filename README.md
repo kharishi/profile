@@ -7,7 +7,7 @@
 
 **CONTACS**
 
-> Email: kharis.hidayatullah@gmail.com 
+> Email: kharis.hidayatullah@gmail.com <br>
 > Phone: 081 212 626 030
 
 
