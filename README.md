@@ -1,11 +1,18 @@
-## Welcome to Kharis Hidayatullah personal CV
 
-All this code are just from HTML and Javascript.
+## Welcome to Kharis Hidayatullah personal CV and Portfolio
 
-### Support or Contact
+**QUICK ACCESS**
+> [CV (Curriculum Vitae)](https://sikharis.github.io/sikharis/)
+> [Portfolio](https://github.com/sikharis/sikharis/blob/master/Kharis%20Hidayatullah%20-%20Portfolio.pdf)
 
-Email: kharis.hidayatullah@gmail.com<br />
-Phone: 081 212 626 030
+**CONTACS**
+
+> Email: kharis.hidayatullah@gmail.com 
+> Phone: 081 212 626 030
 
 
-### contact me if you want to know more.
+    All this code are just from HTML and Javascript.
+    Please contact me if you want to know more.
+
+Regards,
+Kharis Hidayatullah
