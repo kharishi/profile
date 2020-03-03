@@ -1,5 +1,5 @@
 
-## Welcome to Kharis Hidayatullah personal CV and Portfolio
+## Kharis Hidayatullah personal CV and Portfolio
 
 **QUICK ACCESS**
 > [CV (Curriculum Vitae)](https://sikharis.github.io/sikharis/)<br>
